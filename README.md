@@ -4,6 +4,6 @@
 
 personal-resume
 
-https://gitee.com/promise-hanhan/personal-information/
+http://promise-hanhan.gitee.io/personal-information
 
 https://promise-yunhai.github.io/personal-information/
