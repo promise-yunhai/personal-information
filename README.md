@@ -1,7 +1,7 @@
 # personal-information
 
 链接访问↓
-
+ .
 personal-resume
 
 http://promise-hanhan.gitee.io/personal-information
